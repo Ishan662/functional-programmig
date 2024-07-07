@@ -250,3 +250,42 @@ INFO: Unsupported notification method: $/setTrace
 2024.07.07 10:25:47 INFO  BSP server: [error]  D:\scala\assignment 4: input file not found
 2024.07.07 10:25:47 INFO  BSP server: Try viewing the relevant help to see the list of available sub-commands and options.
 2024.07.07 10:25:47 INFO  BSP server:   C:\Users\Ishan Maduranga\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe bsp --help
+2024.07.07 10:26:47 ERROR Timeout waiting for 'build/initialize' response
+2024.07.07 10:26:47 WARN  Retrying connection to the build server scala-cli
+2024.07.07 10:26:47 INFO  Running BSP server List(C:\Users\Ishan Maduranga\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\scala\assignment 4\.scala-build\ide-options-v2.json, --json-launcher-options, D:\scala\assignment 4\.scala-build\ide-launcher-options.json, --envs-file, D:\scala\assignment 4\.scala-build\ide-envs.json, D:\scala\assignment 4)
+2024.07.07 10:26:47 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\scala\functional-programming\assignment 4\.metals\bsp.trace.json or C:\Users\Ishan Maduranga\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.07 10:26:47 INFO  BSP server: [error]  D:\scala\assignment 4: input file not found
+2024.07.07 10:26:47 INFO  BSP server: Try viewing the relevant help to see the list of available sub-commands and options.
+2024.07.07 10:26:47 INFO  BSP server:   C:\Users\Ishan Maduranga\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe bsp --help
+2024.07.07 10:27:47 ERROR Timeout waiting for 'build/initialize' response
+2024.07.07 10:27:47 WARN  Retrying connection to the build server scala-cli
+2024.07.07 10:27:47 INFO  Running BSP server List(C:\Users\Ishan Maduranga\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\scala\assignment 4\.scala-build\ide-options-v2.json, --json-launcher-options, D:\scala\assignment 4\.scala-build\ide-launcher-options.json, --envs-file, D:\scala\assignment 4\.scala-build\ide-envs.json, D:\scala\assignment 4)
+2024.07.07 10:27:47 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\scala\functional-programming\assignment 4\.metals\bsp.trace.json or C:\Users\Ishan Maduranga\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.07 10:27:47 INFO  BSP server: [error]  D:\scala\assignment 4: input file not found
+2024.07.07 10:27:47 INFO  BSP server: Try viewing the relevant help to see the list of available sub-commands and options.
+2024.07.07 10:27:47 INFO  BSP server:   C:\Users\Ishan Maduranga\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe bsp --help
+2024.07.07 10:28:47 ERROR Timeout waiting for 'build/initialize' response
+2024.07.07 10:28:47 WARN  Retrying connection to the build server scala-cli
+2024.07.07 10:28:47 INFO  Running BSP server List(C:\Users\Ishan Maduranga\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\scala\assignment 4\.scala-build\ide-options-v2.json, --json-launcher-options, D:\scala\assignment 4\.scala-build\ide-launcher-options.json, --envs-file, D:\scala\assignment 4\.scala-build\ide-envs.json, D:\scala\assignment 4)
+2024.07.07 10:28:47 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\scala\functional-programming\assignment 4\.metals\bsp.trace.json or C:\Users\Ishan Maduranga\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.07 10:28:47 INFO  BSP server: [error]  D:\scala\assignment 4: input file not found
+2024.07.07 10:28:47 INFO  BSP server: Try viewing the relevant help to see the list of available sub-commands and options.
+2024.07.07 10:28:47 INFO  BSP server:   C:\Users\Ishan Maduranga\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe bsp --help
+2024.07.07 10:29:28 INFO  no build target found for D:\scala\functional-programming\assignment 4\22000356_1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.07 10:29:30 INFO  no build target found for D:\scala\functional-programming\assignment 4\22000356_1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.07 10:29:30 INFO  no build target found for D:\scala\functional-programming\assignment 4\bulit.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.07 10:29:31 WARN  Could not find semantic tokens for: file:///D:/scala/functional-programming/assignment%204/bulit.sbt
+2024.07.07 10:29:32 INFO  no build target found for D:\scala\functional-programming\assignment 4\bulit.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.07 10:29:32 INFO  no build target found for D:\scala\functional-programming\assignment 4\22000356_1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.07 10:29:36 INFO  no build target found for d:\scala\functional-programming\assignment 4\22000356_1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.07 10:29:36 INFO  no build target found for D:\scala\functional-programming\assignment 4\Assignment-04\22000356_1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.07 10:29:47 ERROR Timeout waiting for 'build/initialize' response
+2024.07.07 10:29:47 WARN  Retrying connection to the build server scala-cli
+2024.07.07 10:29:47 INFO  Running BSP server List(C:\Users\Ishan Maduranga\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\scala\assignment 4\.scala-build\ide-options-v2.json, --json-launcher-options, D:\scala\assignment 4\.scala-build\ide-launcher-options.json, --envs-file, D:\scala\assignment 4\.scala-build\ide-envs.json, D:\scala\assignment 4)
+2024.07.07 10:29:47 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\scala\functional-programming\assignment 4\.metals\bsp.trace.json or C:\Users\Ishan Maduranga\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.07 10:29:47 INFO  BSP server: [error]  D:\scala\assignment 4: input file not found
+2024.07.07 10:29:47 INFO  BSP server: Try viewing the relevant help to see the list of available sub-commands and options.
+2024.07.07 10:29:47 INFO  BSP server:   C:\Users\Ishan Maduranga\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe bsp --help
+2024.07.07 10:29:54 INFO  no build target found for D:\scala\functional-programming\assignment 4\Assignment-04\22000356_1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Jul 07, 2024 10:29:58 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
