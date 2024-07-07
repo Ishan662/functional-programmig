@@ -228,3 +228,25 @@ INFO: Unsupported notification method: $/setTrace
 2024.07.07 10:24:25 INFO  Shutting down server
 2024.07.07 10:24:25 INFO  shutting down Metals
 2024.07.07 10:24:25 INFO  Exiting server
+2024.07.07 10:24:45 INFO  Started: Metals version 1.3.2 in folders 'D:\scala\functional-programming\assignment 4' for client Visual Studio Code 1.91.0.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@24e53354]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@fa5ba0b]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@24e53354]
+2024.07.07 10:24:46 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.07 10:24:47 INFO  Attempting to connect to the build server...
+2024.07.07 10:24:47 INFO  Running BSP server List(C:\Users\Ishan Maduranga\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\scala\assignment 4\.scala-build\ide-options-v2.json, --json-launcher-options, D:\scala\assignment 4\.scala-build\ide-launcher-options.json, --envs-file, D:\scala\assignment 4\.scala-build\ide-envs.json, D:\scala\assignment 4)
+2024.07.07 10:24:47 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\scala\functional-programming\assignment 4\.metals\bsp.trace.json or C:\Users\Ishan Maduranga\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.07 10:24:47 INFO  BSP server: [error]  D:\scala\assignment 4: input file not found
+2024.07.07 10:24:47 INFO  BSP server: Try viewing the relevant help to see the list of available sub-commands and options.
+2024.07.07 10:24:47 INFO  BSP server:   C:\Users\Ishan Maduranga\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe bsp --help
+Jul 07, 2024 10:25:13 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.07.07 10:25:47 ERROR Timeout waiting for 'build/initialize' response
+2024.07.07 10:25:47 WARN  Retrying connection to the build server scala-cli
+2024.07.07 10:25:47 INFO  Running BSP server List(C:\Users\Ishan Maduranga\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\scala\assignment 4\.scala-build\ide-options-v2.json, --json-launcher-options, D:\scala\assignment 4\.scala-build\ide-launcher-options.json, --envs-file, D:\scala\assignment 4\.scala-build\ide-envs.json, D:\scala\assignment 4)
+2024.07.07 10:25:47 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\scala\functional-programming\assignment 4\.metals\bsp.trace.json or C:\Users\Ishan Maduranga\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.07 10:25:47 INFO  BSP server: [error]  D:\scala\assignment 4: input file not found
+2024.07.07 10:25:47 INFO  BSP server: Try viewing the relevant help to see the list of available sub-commands and options.
+2024.07.07 10:25:47 INFO  BSP server:   C:\Users\Ishan Maduranga\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe bsp --help
